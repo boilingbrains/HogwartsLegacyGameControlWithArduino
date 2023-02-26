@@ -14,13 +14,13 @@ composants suivant:
 ## Montage électronique
 Voici le câblage du projet:
 
-![](câblage_balai.jpg #center)
+![](câblage_balai.JPG #center)
 
 ## Structure du projet
 ```
 📦Project
 │   📜README.md
-│   📜câblage_balai.jpg
+│   📜câblage_balai.JPG
 |   📜câblage_balai.fzz
 └───📂HogwartsLegacyBroomstickControl
     │
