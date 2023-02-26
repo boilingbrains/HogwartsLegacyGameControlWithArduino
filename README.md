@@ -34,13 +34,13 @@ Voici le câblage du projet:
 1. Partie balai
 <span style="display:block;text-align:center">
 
-[![](minia_balai.jpg#center)]()
+[![](minia_balai.jpg#center)](https://youtu.be/TjQjy_GWWaY)
 
 </span>
 2. Partie baguette
 <span style="display:block;text-align:center">
 
-[![](minia_baguette.jpg#center)]()
+[![](minia_baguette.jpg#center)](https://youtu.be/TjQjy_GWWaY)
 
 </span>
 
