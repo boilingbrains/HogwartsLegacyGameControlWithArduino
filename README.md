@@ -35,7 +35,7 @@ Voici le câblage du projet:
 
 1. Partie baguette
    * La collecte des données se fait avec le fichier "IMU_Capture.ino". Il faut préalablement avoir installé la bibliothèque "LSM9DS1" sur l'IDE Arduino.
-   * "IMU_Classifier_HL.ino" permet d'afficher le nom avec le plus grand score.
+   * "IMU_Classifier_HL.ino" permet d'afficher le nom du sort avec le plus grand score.
 
 
 <span style="display:block;text-align:center">
