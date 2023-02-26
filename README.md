@@ -14,14 +14,14 @@ composants suivant:
 ## Montage électronique
 Voici le câblage du projet:
 
-![](cablage_punchingball.jpg #center)
+![](cablage_punchingball.JPG #center)
 
 ## Structure du projet
 ```
 📦Project
 │   📜README.md
-│   📜cablage_balai.jpg 
-|   📜câblageBalai.fzz 
+│   📜câblage_balai.JPG
+|   📜câblage_balai.fzz
 └───📂HogwartsLegacyBroomstickControl
     │
     └───📜HogwartsLegacyBroomstrickControlArduino.ino
@@ -40,7 +40,7 @@ Voici le câblage du projet:
 
 <span style="display:block;text-align:center">
 
-[![](cablage_balai.JPG #center)]()
+[![](câblage_balai.JPG #center)]()
 
 </span>
  
