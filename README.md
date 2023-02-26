@@ -20,7 +20,7 @@ Voici le câblage du projet:
 ```
 📦Project
 │   📜README.md
-│   📜cablage_balai.JPG 
+│   📜câblage_balai.JPG
 |   📜câblage_balai.fzz
 └───📂HogwartsLegacyBroomstickControl
     │
@@ -40,7 +40,7 @@ Voici le câblage du projet:
 
 <span style="display:block;text-align:center">
 
-[![](cablage_balai.JPG #center)]()
+[![](câblage_balai.JPG #center)]()
 
 </span>
  
