@@ -14,7 +14,7 @@ composants suivant:
 ## Montage électronique
 Voici le câblage du projet:
 
-![](cablage_punchingball.jpg #center)
+![](cablage_punchingball.JPG #center)
 
 ## Structure du projet
 ```
