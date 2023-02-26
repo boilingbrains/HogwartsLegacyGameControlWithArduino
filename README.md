@@ -14,7 +14,7 @@ composants suivant:
 ## Montage électronique
 Voici le câblage du projet:
 
-![](câblage_balai.JPG #center)
+![](câblage_balai.JPG#center)
 
 ## Structure du projet
 ```
