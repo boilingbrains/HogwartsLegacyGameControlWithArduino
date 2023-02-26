@@ -20,8 +20,8 @@ Voici le câblage du projet:
 ```
 📦Project
 │   📜README.md
-│   📜cablage_balai.jpg 
-|   📜câblageBalai.fzz 
+│   📜cablage_balai.JPG 
+|   📜câblage_balai.fzz
 └───📂HogwartsLegacyBroomstickControl
     │
     └───📜HogwartsLegacyBroomstrickControlArduino.ino
