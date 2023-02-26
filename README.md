@@ -1,8 +1,7 @@
 # Jouer à Hogwarts Legacy dans la vraie vie avec Arduino
 
 ## Introduction: 
-Ce projet consiste à utiliser l'Arduino Nano et Nano 33 BLE Sense ainsi qu'un ensemble de capteurs et scripts Python afin d'interagir dans le jeu.
-Possibilité de voler avec le balai et lancer des sorts avec des vraies objets physique.
+Ce projet consiste à utiliser l'Arduino Nano et Nano 33 BLE Sense ainsi qu'un ensemble de capteurs et scripts Python afin d'interagir dans le jeu (lancer des sorts et voler avec le balai) avec des vraies objets physique.
 
 composants suivant:
 * Arduino Nano
