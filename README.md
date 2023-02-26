@@ -27,6 +27,7 @@ Voici le câblage du projet:
 │    └───📜HogwartsLegacyBroomstrickControlArduino.ino
 │    │
 │    └───📜HogwartsLegacyBroomstickControlScript.py
+│
 └───📂HogwartsLegacyMagicWandControl
      │
      └───📂IMU_Capture
