@@ -51,7 +51,7 @@ Voici le câblage du projet:
 
 </span>
 
-   * "IMU_Capture.ino" permet de visualiser et collecter les données pour l'entraînement du modèle. Il faut préalablement avoir installé la bibliothèque "LSM9DS1" sur l'IDE Arduino pour pouvoir utiliser la centrale inertielle de la carte.
+   * "IMU_Capture.ino" permet de visualiser et collecter les données pour l'entraînement du modèle. Il faut préalablement avoir installé la bibliothèque "LSM9DS1" sur l'IDE Arduino pour pouvoir utiliser la centrale inertielle de l'Arduino Nano 33 BLE Sense.
    
    * "IMU_Classifier_HL.ino" (nécessite model.h) permet d'afficher le nom du sort avec le plus grand score dans le moniteur série.
 
