@@ -32,15 +32,20 @@ Voici le câblage du projet:
 ```
 ## Explications:
 1. Partie balai
+<span style="display:block;text-align:center">
 
+[![](minia_balai.JPG#center)]()
+
+</span>
 1. Partie baguette
+<span style="display:block;text-align:center">
+
+[![](minia_baguette.JPG#center)]()
+
+</span>
    * La collecte des données se fait avec le fichier "IMU_Capture.ino". Il faut préalablement avoir installé la bibliothèque "LSM9DS1" sur l'IDE Arduino.
    * "IMU_Classifier_HL.ino" permet d'afficher le nom du sort avec le plus grand score.
 
 
-<span style="display:block;text-align:center">
 
-[![](#center)]()
-
-</span>
  
