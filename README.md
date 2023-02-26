@@ -34,13 +34,13 @@ Voici le câblage du projet:
 1. Partie balai
 <span style="display:block;text-align:center">
 
-[![](minia_balai.JPG#center)]()
+[![](minia_balai.jpg#center)]()
 
 </span>
-1. Partie baguette
+2. Partie baguette
 <span style="display:block;text-align:center">
 
-[![](minia_baguette.JPG#center)]()
+[![](minia_baguette.jpg#center)]()
 
 </span>
    * La collecte des données se fait avec le fichier "IMU_Capture.ino". Il faut préalablement avoir installé la bibliothèque "LSM9DS1" sur l'IDE Arduino.
