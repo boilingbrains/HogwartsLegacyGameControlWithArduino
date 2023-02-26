@@ -38,8 +38,15 @@ Voici le câblage du projet:
      │    └───📜IMU_Classifier_HL.ino
      │    │
      │    └───📜model.h
-     └───📂datas
      │
+     └───📂data
+     │    │
+     │    └───📜accio.csv
+     │    │
+     │    └───📜lumos.csv
+     │    │
+     │    └───📜revelio.csv
+     |
      └───📜HogwartsLegacyMagicWandControlScript.py
 
 ```
