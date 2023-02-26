@@ -31,7 +31,7 @@ Voici le câblage du projet:
     │
     └───📜IMU_Capture.ino
     │
-    └───📜IMU_Classifier_HL.ino
+    └───📜IMU_Classifier_HL.ino + model.h
     │
     └───📜HogwartsLegagcyMagicWandControlScript.py
     
