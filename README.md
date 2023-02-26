@@ -29,12 +29,18 @@ Voici le câblage du projet:
 │    └───📜HogwartsLegacyBroomstickControlScript.py
 └───📂HogwartsLegacyMagicWandControl
      │
-     └───📜IMU_Capture.ino
+     └───📂IMU_Capture
+     │    │
+     │    └───📜IMU_Capture.ino
      │
-     └───📜IMU_Classifier_HL.ino + model.h
+     └───📂IMU_Classifier_HL
+     │    │
+     │    └───📜IMU_Classifier_HL.ino
+     │    │
+     │    └───📜model.h
+     └───📂datas
      │
      └───📜HogwartsLegacyMagicWandControlScript.py
-    
 
 ```
 ## Explications:
