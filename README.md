@@ -31,6 +31,9 @@ Voici le câblage du projet:
 
 ```
 ## Explications:
+La collecte des données se fait avec le fichier IMU_Capture.ino. Il faut préalablement avoir installé la bibliothèque "LSM9DS1" sur l'IDE Arduino.
+
+
 
 <span style="display:block;text-align:center">
 
