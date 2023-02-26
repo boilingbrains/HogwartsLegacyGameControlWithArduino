@@ -40,7 +40,7 @@ Voici le câblage du projet:
 
 <span style="display:block;text-align:center">
 
-[![](câblage_balai.JPG #center)]()
+[![](#center)]()
 
 </span>
  
