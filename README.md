@@ -23,17 +23,17 @@ Voici le câblage du projet:
 │   📜câblage_balai.JPG
 |   📜câblage_balai.fzz
 └───📂HogwartsLegacyBroomstickControl
-    │
-    └───📜HogwartsLegacyBroomstrickControlArduino.ino
-    │
-    └───📜HogwartsLegacyBroomstickControlScript.py
+│    │
+│    └───📜HogwartsLegacyBroomstrickControlArduino.ino
+│    │
+│    └───📜HogwartsLegacyBroomstickControlScript.py
 └───📂HogwartsLegacyMagicWandControl
-    │
-    └───📜IMU_Capture.ino
-    │
-    └───📜IMU_Classifier_HL.ino + model.h
-    │
-    └───📜HogwartsLegacyMagicWandControlScript.py
+     │
+     └───📜IMU_Capture.ino
+     │
+     └───📜IMU_Classifier_HL.ino + model.h
+     │
+     └───📜HogwartsLegacyMagicWandControlScript.py
     
 
 ```
